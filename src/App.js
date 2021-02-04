@@ -1,12 +1,20 @@
 import React from 'react';
-// import logo from './logo.svg';
-// import './App.css';
+import {Switch, Route} from 'react-router-dom';
 
 function App() {
   return (
-    <div>
-      hi
-    </div>
+    <Switch>
+
+    <Route exact path = "/">
+      this is home page
+    </Route>
+    <Route exact path = "/starred">
+      this is starred
+    </Route>
+    <Route>
+      This is not found
+    </Route>
+    </Switch>
   );
 }
 
