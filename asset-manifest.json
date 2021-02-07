@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/box-office-learning_react/static/css/main.5fffadb5.chunk.css",
+    "main.js": "/box-office-learning_react/static/js/main.c08adbd6.chunk.js",
+    "main.js.map": "/box-office-learning_react/static/js/main.c08adbd6.chunk.js.map",
+    "runtime-main.js": "/box-office-learning_react/static/js/runtime-main.8f17d490.js",
+    "runtime-main.js.map": "/box-office-learning_react/static/js/runtime-main.8f17d490.js.map",
+    "static/js/2.1d265cb4.chunk.js": "/box-office-learning_react/static/js/2.1d265cb4.chunk.js",
+    "static/js/2.1d265cb4.chunk.js.map": "/box-office-learning_react/static/js/2.1d265cb4.chunk.js.map",
+    "static/js/3.9ae42350.chunk.js": "/box-office-learning_react/static/js/3.9ae42350.chunk.js",
+    "static/js/3.9ae42350.chunk.js.map": "/box-office-learning_react/static/js/3.9ae42350.chunk.js.map",
+    "index.html": "/box-office-learning_react/index.html",
+    "service-worker.js": "/box-office-learning_react/service-worker.js",
+    "service-worker.js.map": "/box-office-learning_react/service-worker.js.map",
+    "static/css/main.5fffadb5.chunk.css.map": "/box-office-learning_react/static/css/main.5fffadb5.chunk.css.map",
+    "static/js/2.1d265cb4.chunk.js.LICENSE.txt": "/box-office-learning_react/static/js/2.1d265cb4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f17d490.js",
+    "static/js/2.1d265cb4.chunk.js",
+    "static/css/main.5fffadb5.chunk.css",
+    "static/js/main.c08adbd6.chunk.js"
+  ]
+}
